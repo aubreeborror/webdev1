@@ -1,0 +1,14 @@
+.box {
+    width: 100px;
+    height: 100px;
+    background:lightsalmon;
+    margin: 1em;
+}
+
+.absolute {
+    background: blue;
+    width: 400
+    position: absolute;
+    top: 800px;
+    left: 300px;
+}

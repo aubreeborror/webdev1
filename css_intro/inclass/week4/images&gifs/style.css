@@ -1,0 +1,12 @@
+body {
+    background: green;
+    background-image: url(images/cad&aub.png);
+    background-size: cover;
+}
+img {
+    width:300px;
+    position: absolute;
+    top: 50px;
+    right: 20px;
+
+}
