@@ -3,8 +3,8 @@ body {
 }
 
 h1 {
-    font-family: fantasy;
-    font-size: 50px;
+    font-family: cursive;
+    font-size: 65px;
     color: honeydew;
     text-align: center;
     position: relative;
@@ -12,11 +12,11 @@ h1 {
 }
 
 h2 {
-    font-family: fantasy;
-    font-size: 25px;
+    font-family: cursive;
+    font-size: 40px;
     color: honeydew;
     text-align: center;
-    margin-top: -100px; 
+    margin-top: -20px; 
     position: relative;
     z-index: 1;
 }
@@ -28,7 +28,7 @@ p {
     text-align: left;
     padding-left: 50px;
     padding-right: 500px;
-    padding-top: 100px;
+    padding-top: 150px;
 }
 .ferret1 {
     width:300px;
