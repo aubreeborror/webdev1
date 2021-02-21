@@ -14,7 +14,7 @@ h1 {
 h2 {
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     font-size: 40px;
-    color: honeydew;
+    color:khaki;
     text-align: center;
     margin-top: -20px; 
     position: relative;
@@ -91,5 +91,5 @@ p {
     width:100px;
     position: fixed;
     top: 50px;
-    left: 300px;
+    left: 300px; 
 }
