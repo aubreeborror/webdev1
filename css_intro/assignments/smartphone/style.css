@@ -1,0 +1,206 @@
+* {
+    margin: 5px;
+    padding: 5px;
+}
+
+body {
+    background-color: darkkhaki;
+}
+
+.wrapper {
+    display: flex;
+    justify-content: center;
+}
+
+.phone {
+    margin-top: 15vmin;
+    margin-bottom: 15vmin;
+    display: flex;
+    flex-direction: column;
+    border-radius: 9%;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,93,121,1) 25%, rgba(0,212,255,1) 100%);
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+}
+
+a:link, :visited {
+    text-decoration: none;
+    display: inline-block;
+    height: 4rem;
+    width: 4rem;
+}
+
+a:hover{
+    background-color:darkseagreen;
+    border-radius: 20%;
+    background-size: contain; 
+    margin-top: 0px;
+    margin-left: 0px;
+    padding-Left: 0px;
+    padding-top: 0px;
+    justify-content: center;
+}
+
+.box1{
+    border-radius: 20%;
+    height: 4rem;
+    width: 4rem;
+    background-image:url(img/cat.jpeg);
+    background-size: contain;
+}
+
+.box2{
+    border-radius: 20%;
+    height: 4rem;
+    width: 4rem;
+    background-image:url(img/ant.jpeg);
+    background-size: contain;
+}
+
+.box3{
+    border-radius: 20%;
+    height: 4rem;
+    width: 4rem;
+    background-image:url(img/butterfly.jpeg);
+    background-size: contain;
+}
+
+.box4{
+    border-radius: 20%;
+    height: 4rem;
+    width: 4rem;
+    background-image:url(img/cow.jpeg);
+    background-size: cover;
+}
+
+.box5{
+    border-radius: 20%;
+    height: 4rem;
+    width: 4rem;
+    background-image:url(img/dog.jpeg);
+    background-size: cover;
+}
+
+.box6{
+    border-radius: 20%;
+    height: 4rem;
+    width: 4rem;
+    background-image:url(img/dolphin.jpeg);
+    background-size: cover;
+}
+
+.box7{
+    border-radius: 20%;
+    height: 4rem;
+    width: 4rem;
+    background-image:url(img/elephant.jpeg);
+    background-size: cover;
+}
+
+.box8{
+    border-radius: 20%;
+    height: 4rem;
+    width: 4rem;
+    background-image:url(img/fish.jpeg);
+    background-size: cover;
+}
+
+.box9{
+    border-radius: 20%;
+    height: 4rem;
+    width: 4rem;
+    background-image:url(img/lion.jpeg);
+    background-size: contain;
+}
+
+.box10{
+    border-radius: 20%;
+    height: 4rem;
+    width: 4rem;
+    background-image:url(img/lizard.jpeg);
+    background-size: cover;
+}
+
+.box11{
+    border-radius: 20%;
+    height: 4rem;
+    width: 4rem;
+    background-image:url(img/monkey.jpeg);
+    background-size: cover;
+}
+
+.box12{
+    border-radius: 20%;
+    height: 4rem;
+    width: 4rem;
+    background-image:url(img/penguin.jpeg);
+    background-size: contain;
+}
+
+.box13{
+    border-radius: 20%;
+    height: 4rem;
+    width: 4rem;
+    background-image:url(img/prary.jpeg);
+    background-size: cover;
+}
+
+.box14{
+    border-radius: 20%;
+    height: 4rem;
+    width: 4rem;
+    background-image:url(img/rabbit.jpeg);
+    background-size: cover;
+}
+
+.box15{
+    border-radius: 20%;
+    height: 4rem;
+    width: 4rem;
+    background-image:url(img/raccoon.jpg);
+    background-size: cover;
+}
+
+.box16{
+    border-radius: 20%;
+    height: 4rem;
+    width: 4rem;
+    background-image:url(img/rat.jpeg);
+    background-size: contain;
+}
+
+.box17{
+    border-radius: 20%;
+    height: 4rem;
+    width: 4rem;
+    background-image:url(img/skunk.jpeg);
+    background-size: contain;
+}
+
+.box18{
+    border-radius: 20%;
+    height: 4rem;
+    width: 4rem;
+    background-image:url(img/slug.jpeg);
+    background-size: contain;
+}
+
+.box19{
+    border-radius: 20%;
+    height: 4rem;
+    width: 4rem;
+    background-image:url(img/turtle.jpeg);
+    background-size: cover;
+}
+
+.box20{
+    border-radius: 20%;
+    height: 4rem;
+    width: 4rem;
+    background-image:url(img/worm.jpeg);
+    background-size: cover;
+}
