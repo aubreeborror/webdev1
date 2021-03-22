@@ -1,0 +1,95 @@
+body {
+    background-image: url(gifs/backspark.gif);
+}
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 65px;
+    color: honeydew;
+    text-align: center;
+    position: relative;
+    z-index: 1;
+}
+
+h2 {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    color:khaki;
+    text-align: center;
+    margin-top: -20px; 
+    position: relative;
+    z-index: 1;
+}
+
+p {
+    font-family:'Times New Roman', Times, serif;
+    font-size: 20px;
+    color:greenyellow;
+    text-align: left;
+    padding-left: 50px;
+    padding-right: 500px;
+    padding-top: 100px;
+}
+.ferret1 {
+    width:300px;
+    position: absolute;
+    bottom: 200px;
+    right: 50px;
+}
+
+.rugferret {
+    width:50%;
+    position: absolute;
+    bottom: 50px;
+    left: 50px;
+    
+}
+
+.ferret2 {
+    width:400px;
+    position: absolute;
+    bottom: 50px;
+    right: 250px;
+}
+
+.ferret3 {
+    width:300px;
+    position: absolute;
+    bottom: 100px;
+    left: 500px;
+}
+
+.heartferret {
+    width:200px;
+    position: fixed;
+    top: 80px;
+    right: 200px;
+}
+
+.ferret4 {
+    width:200px;
+    position: absolute;
+    bottom: 200px;
+    left: 100px;
+}
+
+.heart1 {
+    width:200px;
+    position: fixed;
+    top: 40px;
+    right: 10px;
+}
+
+.heart2 {
+    width:250px;
+    position: fixed;
+    top: 50px;
+    left: 20px;
+}
+
+.heart3 {
+    width:100px;
+    position: fixed;
+    top: 50px;
+    left: 300px; 
+}
