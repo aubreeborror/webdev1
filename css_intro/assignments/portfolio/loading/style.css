@@ -1,0 +1,40 @@
+* {
+    margin: 5px;
+    padding: 5px;
+}
+
+body {
+    background-color:cornflowerblue; 
+}
+
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 100px;
+    color:lightsteelblue;
+    text-align: center;
+    padding-top: 50px;
+}
+nav {
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+    padding: 30px;
+}
+
+a {
+    font-size: 20px;
+    text-decoration: none;
+    text-align: center;
+    display: block;
+    color: pink;
+}
+   
+
+ a:hover {
+    color: white;
+    background-color: lightpink;
+    border-radius: 60px;
+    padding: 10px;   
+}   
+

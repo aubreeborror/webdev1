@@ -1,0 +1,44 @@
+* {
+    margin: 5px;
+    padding: 5px;
+}
+
+body {
+    background-color:cornflowerblue; 
+}
+
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 100px;
+    color:lightsteelblue;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.box {
+    width: 1350px;
+    height: 50px;
+    background: pink;
+    animation-name: move;
+    animation-duration: 5s;
+    animation-iteration-count: 1;
+    animation-direction: normal;
+    margin-right: 50px;
+    margin-top: 50px;
+ }
+ @keyframes move {
+    0% {
+      background:darkorchid; 
+      transform: translate(-50%, -50%);
+      width: 0px;
+      height: 50px;
+    }
+   
+    100% {
+      background: pink;
+      transform: translate(-50%, -50%);
+      width: 1350px;
+      height: 50px;
+    }
+ 
+  

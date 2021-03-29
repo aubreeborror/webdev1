@@ -1,0 +1,37 @@
+* {
+    margin: 20px;
+    padding: 20px;
+}
+
+body {
+    background-color:cornflowerblue; 
+}
+
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 100px;
+    color:lightsteelblue;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.box {
+    border-radius: 100px;
+    width: 100px;
+    height: 100px;
+    animation-name: rotate;
+    animation-duration: 0.7s;
+    animation-iteration-count: infinite;
+    margin-left: 50%;
+    border: 10px dotted lightpink; 
+  }
+  
+  @keyframes rotate {
+    0% {
+      transform: rotate(0);
+    }
+    100% {
+      transform: rotate(360deg);
+    }
+  }
+ 
