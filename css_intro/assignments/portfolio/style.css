@@ -13,6 +13,7 @@ h1 {
     
 }
 
+
 nav {
     font-family: 'Roboto', sans-serif;
     display: flex;
@@ -31,13 +32,10 @@ a {
    
 
  a:hover {
-    color:red;
+    color: white;
     background-color: lightpink;
     border-radius: 60px;
     padding: 10px;   
 }   
 
-.kitty {
-    padding-left: 450px;
-}
 
